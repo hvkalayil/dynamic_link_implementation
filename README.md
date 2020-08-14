@@ -11,5 +11,10 @@ And shows the shared message.
 
 # Screenshots
 
-Markup : ![picture alt](screenshots/ss1.png "Title is optional" = 100x500)
-         ![picture alt](screenshots/ss2.png "Title is optional" = 100x500)
+Markup : ![picture alt](screenshots/ss1.png "Title is optional")
+         ![picture alt](screenshots/ss2.png "Title is optional")
+
+# Relavant code files
+
+Markup :  > [Home Screen](lib\Screens\HomeScreen\home_screen.dart)
+          > [Result Screen](lib\Screens\ResultScreen\result_screen.dart)
