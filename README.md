@@ -1,6 +1,6 @@
-# sauda_task
+# Dynamic Links in Flutter
 
-A new Flutter application.
+A new Flutter application that implements dynamic links.
 
 ## Getting Started
 
