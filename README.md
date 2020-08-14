@@ -16,5 +16,5 @@ And shows the shared message.
 
 # Relavant code files
 
-> [Home Screen](lib\Screens\HomeScreen\home_screen.dart)
+> [Home Screen](lib\Screens\HomeScreen\home_screen.dart)<br/>
 > [Result Screen](lib\Screens\ResultScreen\result_screen.dart)
