@@ -7,7 +7,7 @@ A new Flutter application that implements dynamic links.
 The application gives the user an option to input a text message. This message can be shared via a deep link. The deep Link will either:
 * Redirect user to play store to install the app
 * Redirect user to application, if installed
-And shows the shared message.
+And shows the shared message.<br/>
 Since the application is not in the playstore, you wont be able to find the application in the playstore redirect
 
 # Screenshots
