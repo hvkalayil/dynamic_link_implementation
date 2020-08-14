@@ -11,4 +11,5 @@ And shows the shared message.
 
 # Screenshots
 
-Markup : ![picture alt](http://via.placeeeeholder.com/200x150 "Title is optional")
+Markup : ![picture alt](screenshots/ss1.png "Title is optional")
+         ![picture alt](screenshots/ss2.png "Title is optional")
