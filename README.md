@@ -8,6 +8,7 @@ The application gives the user an option to input a text message. This message c
 * Redirect user to play store to install the app
 * Redirect user to application, if installed
 And shows the shared message.
+Since the application is not in the playstore, you wont be able to find the application in the playstore redirect
 
 # Screenshots
 
